@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IrregularVerbs" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--Base colors-->
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+
+        <item name="colorOnPrimary">@color/color_on_primary</item>
+    </style>
+
+    <style name="Theme.IrregularVerbs" parent="Base.Theme.IrregularVerbs" />
+</resources>

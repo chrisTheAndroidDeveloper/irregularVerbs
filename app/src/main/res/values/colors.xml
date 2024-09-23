@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#FF673AB7</color>
+    <string name="inactive_color" translatable="false">#FF999999</string>
+
+    <color name="color_primary">#FF549DBC</color>
+    <color name="color_primary_variant">#FFFF9944</color>
+    <color name="color_secondary">#FFD267</color>
+    <color name="color_on_primary">#FFFFFFFF</color>
+
+    <color name="color_primary_night">#FF38839B</color>
+    <color name="color_primary_variant_night">#FF8012BB</color>
+    <color name="color_secondary_night">#FF000088</color>
+    <color name="color_on_primary_night">#FF323232</color>
+</resources>
